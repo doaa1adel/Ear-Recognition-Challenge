@@ -7,7 +7,7 @@ import skimage.io as skio
 from keras.applications.xception import Xception
 from keras.models import Model
 
-PATH = 'Dataset/'
+PATH = '/content/gdrive/My Drive/Colab Notebooks/'
 tr_FN = 'Train Dataset'
 trainset = "training_set"
 testset = "testing_set"
